@@ -4,6 +4,8 @@
 
 ### 代码
 
+- [Java 编码规范](./javaCodeConventions.md)
+
 ### 版本管理
 
 - [Git 提交规范](./gitCommitNorms.md)
