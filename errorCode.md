@@ -29,8 +29,8 @@
 
 ## 错误码解析
 
-|--|--|--|--|
 |module|property|code|message|
+|--|--|--|--|
 |**系统权限**|
 |OAUTH2模块|OAUTH2_INVALID_GRANT_BAD_CREDENTIALS|1001001|密码不正确|
 |**会员系统**|
