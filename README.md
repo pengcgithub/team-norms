@@ -5,6 +5,7 @@
 ### 代码
 
 - [Java 编码规范](./javaCodeConventions.md)
+- [错误码](./errorCode.md)
 
 ### 版本管理
 
@@ -15,6 +16,8 @@
 ### 技术文档
 
 ### 测试
+
+- [bug提交规范](./commitBug.md)
 
 ### 产品、UI
 

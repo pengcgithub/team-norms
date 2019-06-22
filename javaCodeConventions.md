@@ -121,6 +121,10 @@ public static void main(String[] args) {
 
 8、不同逻辑、不同语义、不同业务的代码之间插入一个空行分隔开来以提升可读性。
 
+### 异常处理
+
+// todo
+
 ### 注释规范
 
 1、类、类属性、类方法的注释必须使用 Javadoc 规范，使用/**内容*/格式，不得使用
@@ -146,8 +150,9 @@ public static void main(String[] args) {
  * 拼团主表的业务逻辑层.
  *
  * @author pengc
- * @date 2019/3/5
+ * @time 2019/4/29 17:20
  * @see com.byl.group.service.impl
+ * @since v3.0.0
  */
 </pre>
 
@@ -161,6 +166,8 @@ public static void main(String[] args) {
  * @param userId 用户ID
  * @return {@link UserStatusVO}
  * @throws exception
+ * @time 2019/4/29 17:20
+ * @since v3.0.0
  */
 </pre>
 
